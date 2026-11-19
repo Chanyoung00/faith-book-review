@@ -1,0 +1,188 @@
+{
+ "no": 2,
+ "book_ko": "고백록",
+ "book_en": "Confessions",
+ "author_ko": "아우구스티누스",
+ "author_en": "Augustine · c. 397",
+ "music": {
+  "hymn": "doxology",
+  "seed": 2
+ },
+ "scenes": [
+  {
+   "card": true,
+   "label": "오늘의 책",
+   "label_en": "Today's Book",
+   "title": "고백록",
+   "en": "Confessions",
+   "sub": "하나님 앞에서 쓴\n한 사람의 인생 고백",
+   "sub_en": "A life confessed\nbefore God",
+   "dur": 10
+  },
+  {
+   "label": "한 줄 소개",
+   "label_en": "In One Line",
+   "body": "기독교 역사에서\n첫 영적 자서전으로\n꼽히는 고전입니다.",
+   "body_en": "Often called the first\nspiritual autobiography\nin Christian history.",
+   "dur": 9
+  },
+  {
+   "label": "읽는 법",
+   "label_en": "How to Read It",
+   "body": "'고백'에는\n두 가지 뜻이 있습니다.\n죄를 털어놓는 고백,\n하나님을 찬양하는 고백",
+   "body_en": "'Confession' means two things:\nadmitting one's sins,\nand praising God.",
+   "dur": 10
+  },
+  {
+   "label": "책의 구성",
+   "label_en": "How It's Built",
+   "body": "모두 13권입니다.\n1~9권: 지나온 삶\n10권: 기억\n11~13권: 시간과 창조",
+   "body_en": "Thirteen books in all:\nBooks 1–9, his life;\nBook 10, memory;\nBooks 11–13, time and creation.",
+   "dur": 10
+  },
+  {
+   "label": "저자",
+   "label_en": "The Author",
+   "photo_url": "https://images.unsplash.com/photo-1755463083594-8cd2d1e2135e?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "photo_credit": "Amir Haj Ayed",
+   "body": "아우구스티누스는\n354년 로마 시대\n북아프리카에서\n태어났습니다.",
+   "body_en": "Augustine was born\nin Roman North Africa\nin 354.",
+   "dur": 10
+  },
+  {
+   "label": "집필 배경",
+   "label_en": "Why He Wrote It",
+   "body": "히포의 주교가 된 뒤\n397년 무렵,\n마흔세 살에 이 책을\n쓰기 시작했습니다.",
+   "body_en": "Around 397, as Bishop of Hippo,\nhe began writing it\nat about forty-three.",
+   "dur": 10
+  },
+  {
+   "label": "줄거리 ①  배 도둑",
+   "label_en": "The Stolen Pears",
+   "photo_url": "https://images.unsplash.com/photo-1563738371756-ce7341beef9a?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "photo_credit": "Hanne Hoogendam",
+   "body": "소년 시절\n친구들과 배를 훔쳐\n돼지에게\n던져 버렸습니다.",
+   "body_en": "As a boy, he stole pears\nwith his friends\nand threw them to the pigs.",
+   "dur": 10
+  },
+  {
+   "label": "줄거리 ②  죄의 뿌리",
+   "label_en": "The Root of Sin",
+   "body": "배가 고파서가 아니라\n훔치는 것 자체가\n좋았다고 고백합니다.\n죄의 뿌리를 본 것이죠.",
+   "body_en": "Not from hunger —\nhe loved the stealing itself.\nHe saw there the root of sin.",
+   "dur": 10
+  },
+  {
+   "label": "줄거리 ③  방황",
+   "label_en": "Restless Years",
+   "body": "카르타고에서 공부하며\n쾌락과 명예를 좇았고\n9년 동안 마니교에\n빠져 지냈습니다.",
+   "body_en": "Studying in Carthage,\nhe chased pleasure and fame,\nand followed Manichaeism\nfor nine years.",
+   "dur": 10
+  },
+  {
+   "label": "마니교란?",
+   "label_en": "What Was Manichaeism?",
+   "body": "세상을 빛과 어둠,\n두 힘의 싸움으로 보고\n악도 하나의 실체라고\n가르친 종교입니다.",
+   "body_en": "A religion that saw the world\nas a war of light and darkness,\nand evil as a real substance.",
+   "dur": 11
+  },
+  {
+   "label": "어머니의 기도",
+   "label_en": "A Mother's Prayers",
+   "photo_url": "https://images.unsplash.com/photo-1575516662637-99214ea59f23?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "photo_credit": "Deb Dowd",
+   "body": "어머니 모니카는\n아들을 위해\n오랫동안 눈물로\n기도했습니다.",
+   "body_en": "His mother Monica\nprayed for him\nwith tears for many years.",
+   "dur": 10
+  },
+  {
+   "label": "줄거리 ④  밀라노",
+   "label_en": "Milan",
+   "photo_url": "https://images.unsplash.com/photo-1606832146793-88afda7ae1b7?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "photo_credit": "Federico Di Dio photography",
+   "body": "밀라노에서\n암브로시우스 주교의\n설교를 들으며\n마음이 열리기 시작합니다.",
+   "body_en": "In Milan, listening\nto Bishop Ambrose,\nhis heart began to open.",
+   "dur": 10
+  },
+  {
+   "label": "줄거리 ⑤  정원에서",
+   "label_en": "In the Garden",
+   "body": "386년 여름,\n무화과나무 아래에서\n'집어 들고 읽어라'\n아이의 노래를 듣습니다.",
+   "body_en": "In 386, under a fig tree,\nhe heard a child singing,\n“Take up and read.”",
+   "dur": 12
+  },
+  {
+   "label": "줄거리 ⑥  말씀",
+   "label_en": "The Word",
+   "photo_url": "https://images.unsplash.com/photo-1517244649640-fcacab5ce213?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "photo_credit": "Sixteen Miles Out",
+   "body": "펼친 말씀은\n로마서 13장 13~14절.\n그 순간\n마음의 어둠이 걷혔습니다.",
+   "body_en": "He opened to Romans 13:13–14,\nand in that moment\nthe darkness lifted.",
+   "dur": 11
+  },
+  {
+   "label": "줄거리 ⑦  세례",
+   "label_en": "Baptism",
+   "photo_url": "https://images.unsplash.com/photo-1743445307291-d24fa2304846?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "photo_credit": "G + L",
+   "body": "387년 부활절에\n세례를 받았고,\n얼마 뒤 어머니는\n오스티아에서 숨을 거둡니다.",
+   "body_en": "At Easter in 387,\nAmbrose baptized him.\nSoon after,\nMonica died at Ostia.",
+   "dur": 12
+  },
+  {
+   "label": "10~13권",
+   "label_en": "Books 10–13",
+   "photo_url": "https://images.unsplash.com/photo-1766179031087-088a7d0e9ae3?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "photo_credit": "Callum Mullin",
+   "body": "이후에는 기억과 시간,\n창조의 신비를\n하나님께 묻고\n묵상합니다.",
+   "body_en": "Then he reflects with God\non memory, on time,\nand on creation.",
+   "dur": 10
+  },
+  {
+   "label": "책 속 한 문장",
+   "label_en": "From the Book",
+   "quote": true,
+   "body": "\"주께서 우리를\n주님을 향하도록 지으셨기에\n우리 마음은 주 안에서\n쉬기까지 쉼이 없습니다.\"",
+   "body_en": "\"Thou madest us for Thyself,\nand our heart is restless,\nuntil it repose in Thee.\"",
+   "ref": "아우구스티누스, 『고백록』 1권  ·  Pusey 영역(1838)",
+   "dur": 13
+  },
+  {
+   "label": "오늘 우리에게 ①",
+   "label_en": "For Us Today",
+   "body": "쉼 없는 마음은\n더 많은 것이 아니라\n하나님 안에서\n쉼을 얻습니다.",
+   "body_en": "A restless heart finds rest\nnot in more things,\nbut in God.",
+   "dur": 10
+  },
+  {
+   "label": "오늘 우리에게 ②",
+   "label_en": "For Us Today",
+   "photo_url": "https://images.unsplash.com/photo-1517971071642-34a2d3ecc9cd?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "photo_credit": "Hannah Olinger",
+   "body": "내 삶을 정직하게\n돌아보는 것,\n그것이 곧\n찬양이 됩니다.",
+   "body_en": "Looking honestly at our lives\ncan itself\nbecome praise.",
+   "dur": 10
+  },
+  {
+   "label": "이런 분께 추천",
+   "label_en": "Who Should Read It",
+   "body": "신앙의 방황을\n지나고 있는 분,\n자녀를 위해\n기도하는 부모님",
+   "body_en": "Anyone wandering in faith,\nand parents\npraying for their children.",
+   "dur": 10
+  },
+  {
+   "label": "오늘의 묵상",
+   "label_en": "Reflect",
+   "body": "지금 내 마음은\n어디에서\n쉬고 있나요?",
+   "body_en": "Where is your heart\nfinding its rest today?",
+   "dur": 9
+  },
+  {
+   "title": "다음 책",
+   "en": "Next Book",
+   "sub": "#3  토마스 아 켐피스\n『그리스도를 본받아』\n다음 주 월요일 오후 9시",
+   "sub_en": "Thomas à Kempis, The Imitation of Christ\nNext Monday, 9 PM (KST)",
+   "dur": 8
+  }
+ ]
+}
