@@ -1,0 +1,183 @@
+{
+ "no": 3,
+ "book_ko": "그리스도를 본받아",
+ "book_en": "The Imitation of Christ",
+ "author_ko": "토마스 아 켐피스",
+ "author_en": "Thomas à Kempis · c. 1427",
+ "music": {
+  "hymn": "jesus_loves_me",
+  "seed": 3
+ },
+ "scenes": [
+  {
+   "card": true,
+   "label": "오늘의 책",
+   "label_en": "Today's Book",
+   "title": "그리스도를 본받아",
+   "en": "The Imitation of Christ",
+   "sub": "예수님을 닮아 가는\n작은 지혜의 책",
+   "sub_en": "A small book of wisdom\nfor becoming like Jesus",
+   "dur": 10
+  },
+  {
+   "label": "한 줄 소개",
+   "label_en": "In One Line",
+   "body": "성경 다음으로\n가장 많이 읽힌\n신앙 서적으로\n꼽히곤 합니다.",
+   "body_en": "Often called the most widely read\ndevotional book\nafter the Bible.",
+   "dur": 9
+  },
+  {
+   "label": "읽는 법",
+   "label_en": "How to Read It",
+   "body": "이야기책이 아닙니다.\n짧은 권면과 기도를\n모은 책이라\n하루 한 장씩 천천히",
+   "body_en": "It is not a story.\nIt gathers short counsels\nand prayers —\nread one chapter a day, slowly.",
+   "dur": 10
+  },
+  {
+   "label": "'새로운 경건' 운동",
+   "label_en": "The Modern Devotion",
+   "body": "14세기 네덜란드의\n신앙 운동입니다.\n학문 논쟁보다\n일상의 기도를 중시했죠.",
+   "body_en": "A 14th-century movement\nin the Netherlands\nthat valued daily prayer\nover learned debate.",
+   "dur": 10
+  },
+  {
+   "label": "책의 구성",
+   "label_en": "How It's Built",
+   "body": "네 권으로 되어 있습니다.\n1~2권 영적 생활 권면\n3권 내적 위로\n4권 성찬",
+   "body_en": "Four books:\nI–II, counsels for the spiritual life;\nIII, inner comfort;\nIV, Communion.",
+   "dur": 10
+  },
+  {
+   "label": "저자",
+   "label_en": "The Author",
+   "photo_url": "https://images.unsplash.com/photo-1691315040131-8785183c20e8?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "photo_credit": "Robert Schwarz",
+   "body": "1380년 무렵\n독일 켐펜에서\n대장장이의 아들로\n태어났습니다.",
+   "body_en": "Born around 1380\nin Kempen, Germany,\nthe son of a blacksmith.",
+   "dur": 10
+  },
+  {
+   "label": "수도원의 삶",
+   "label_en": "A Life in the Monastery",
+   "photo_url": "https://images.unsplash.com/photo-1765850258689-8e300b680b0f?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "photo_credit": "Joao Vitor Marcilio",
+   "body": "네덜란드의 작은\n수도원에서 평생 살며\n성경을 적어도 네 번\n손으로 베껴 썼습니다.",
+   "body_en": "He spent his life\nin a small Dutch monastery\nand copied the whole Bible\nby hand at least four times.",
+   "dur": 10
+  },
+  {
+   "label": "집필 배경",
+   "label_en": "How It Was Written",
+   "body": "1418~1427년 무렵\n라틴어로,\n자기 이름도 밝히지 않고\n조용히 썼습니다.",
+   "body_en": "Around 1418–1427,\nin Latin,\nquietly and without\nhis name on it.",
+   "dur": 10
+  },
+  {
+   "label": "1권 ①  첫 문장",
+   "label_en": "Book I: The First Line",
+   "photo_url": "https://images.unsplash.com/photo-1727422090786-15b3b587ab4c?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "photo_credit": "rehan shaik",
+   "body": "\"나를 따르는 자는\n어둠에 다니지\n아니하고\" (요 8:12)\n책은 이 말씀으로 엽니다.",
+   "body_en": "It opens with Jesus' words:\n“He that followeth me\nshall not walk in darkness.”",
+   "dur": 10
+  },
+  {
+   "label": "1권 ②  아는 것과 사는 것",
+   "label_en": "Book I: Knowing and Living",
+   "photo_url": "https://images.unsplash.com/photo-1556566952-11eff3d06ed4?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "photo_credit": "Paige Cody",
+   "body": "삼위일체를 깊이 논해도\n겸손이 없다면\n무슨 유익이 있느냐고\n묻습니다.",
+   "body_en": "What good is deep talk\nabout the Trinity,\nhe asks,\nif we lack humility?",
+   "dur": 10
+  },
+  {
+   "label": "1권 ③  헛된 것들",
+   "label_en": "Book I: Vanity",
+   "photo_url": "https://images.unsplash.com/photo-1660728800047-c172f5a57014?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "photo_credit": "Andraes Arteaga",
+   "body": "재물과 명예,\n오래 살기만 바라는 것은\n헛되다고 말합니다.\n잘 사는 게 중요하죠.",
+   "body_en": "Riches, honor,\nwishing only for a long life —\nall vanity.\nWhat matters is living well.",
+   "dur": 10
+  },
+  {
+   "label": "2권  내면의 삶",
+   "label_en": "Book II: The Inner Life",
+   "photo_url": "https://images.unsplash.com/photo-1715837602242-8e3fb8c06124?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "photo_credit": "Kabir Tamang",
+   "body": "바깥 소란보다\n마음속 고요에서\n그리스도를 만나라고\n권합니다.",
+   "body_en": "Meet Christ\nnot in outward noise\nbut in the quiet\nof the heart.",
+   "dur": 10
+  },
+  {
+   "label": "2권  십자가의 길",
+   "label_en": "Book II: The Way of the Cross",
+   "photo_url": "https://images.unsplash.com/photo-1542223533-bfa1cbd335b4?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "photo_credit": "James",
+   "body": "십자가를 피하지 말고\n지고 가라고 합니다.\n그 길이 곧\n예수님을 따르는 길입니다.",
+   "body_en": "Do not run from the cross;\ncarry it.\nThat is the way\nof following Jesus.",
+   "dur": 10
+  },
+  {
+   "label": "3권  내적 위로",
+   "label_en": "Book III: Inner Comfort",
+   "body": "그리스도와 제자가\n주고받는 대화로\n지친 마음을\n위로합니다.",
+   "body_en": "Written as a conversation\nbetween Christ and a disciple,\nit comforts weary hearts.",
+   "dur": 9
+  },
+  {
+   "label": "4권  성찬",
+   "label_en": "Book IV: Communion",
+   "photo_url": "https://images.unsplash.com/photo-1774450190469-5d8d3882b890?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "photo_credit": "Jacob Ogando Duran",
+   "body": "성찬 앞에서\n겸손하게\n마음을 준비하는\n권면과 기도입니다.",
+   "body_en": "Counsels and prayers\nto prepare the heart humbly\nfor the Lord's Supper.",
+   "dur": 9
+  },
+  {
+   "label": "책 속 한 문장",
+   "label_en": "From the Book",
+   "quote": true,
+   "body": "\"심판 날에 우리는\n무엇을 읽었는지가 아니라\n무엇을 행했는지\n질문받을 것입니다.\"",
+   "body_en": "\"At the Day of Judgment\nit will be demanded of us,\nnot what we have read,\nbut what we have done.\"",
+   "ref": "토마스 아 켐피스, 『그리스도를 본받아』 1권 3장  ·  Benham 영역",
+   "dur": 13
+  },
+  {
+   "label": "오늘 우리에게 ①",
+   "label_en": "For Us Today",
+   "body": "많이 아는 것보다\n한 가지라도\n살아 내는 것이\n더 귀합니다.",
+   "body_en": "Living out even one thing\nis worth more\nthan knowing many.",
+   "dur": 10
+  },
+  {
+   "label": "오늘 우리에게 ②",
+   "label_en": "For Us Today",
+   "photo_url": "https://images.unsplash.com/photo-1599963708105-2cfa72713472?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "photo_credit": "Jessica Mangano",
+   "body": "바쁜 하루 속에서도\n잠시 멈춰\n말씀 앞에 머무는\n시간이 필요합니다.",
+   "body_en": "Even on busy days,\nwe need a pause\nto stay before the Word.",
+   "dur": 10
+  },
+  {
+   "label": "이런 분께 추천",
+   "label_en": "Who Should Read It",
+   "body": "신앙이 머리로만\n남은 것 같은 분,\n하루 한 장 묵상할\n책을 찾는 분",
+   "body_en": "Anyone whose faith\nfeels stuck in the head,\nor who wants one page\nto pray over each day.",
+   "dur": 10
+  },
+  {
+   "label": "오늘의 묵상",
+   "label_en": "Reflect",
+   "body": "오늘 읽은 말씀 중\n한 가지를 살아 낸다면\n무엇일까요?",
+   "body_en": "Of what you read today,\nwhat one thing\nwill you live out?",
+   "dur": 9
+  },
+  {
+   "title": "다음 책",
+   "en": "Next Book",
+   "sub": "#4  C.S. 루이스\n『순전한 기독교』\n다음 주 월요일 오후 9시",
+   "sub_en": "C.S. Lewis, Mere Christianity\nNext Monday, 9 PM (KST)",
+   "dur": 8
+  }
+ ]
+}
